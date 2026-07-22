@@ -1,5 +1,9 @@
 # Seeed Voicecard Driver & DOA Estimation (Kernel 6.1.21+ Fork)
 
+<p align="center">
+  <img src="1000029833.jpg" alt="Hardware Setup" width="600"/>
+</p>
+
 This repository is a fork of [respeaker/seeed-voicecard](https://github.com/respeaker/seeed-voicecard). It includes updated source code to support modern Raspberry Pi Linux kernels, along with a practical example for Direction of Arrival (DOA) estimation using the built-in LED ring.
 
 ---
